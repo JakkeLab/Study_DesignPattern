@@ -1,0 +1,15 @@
+C:\Users\sjak3\Documents\JakkeLab\01_DEV\02_Study\11_Theorical\01_DesignPattern\DesignPatternDotnet\StructureAdapter\bin\Debug\net6.0\StructureAdapter.exe
+C:\Users\sjak3\Documents\JakkeLab\01_DEV\02_Study\11_Theorical\01_DesignPattern\DesignPatternDotnet\StructureAdapter\bin\Debug\net6.0\StructureAdapter.deps.json
+C:\Users\sjak3\Documents\JakkeLab\01_DEV\02_Study\11_Theorical\01_DesignPattern\DesignPatternDotnet\StructureAdapter\bin\Debug\net6.0\StructureAdapter.runtimeconfig.json
+C:\Users\sjak3\Documents\JakkeLab\01_DEV\02_Study\11_Theorical\01_DesignPattern\DesignPatternDotnet\StructureAdapter\bin\Debug\net6.0\StructureAdapter.dll
+C:\Users\sjak3\Documents\JakkeLab\01_DEV\02_Study\11_Theorical\01_DesignPattern\DesignPatternDotnet\StructureAdapter\bin\Debug\net6.0\StructureAdapter.pdb
+C:\Users\sjak3\Documents\JakkeLab\01_DEV\02_Study\11_Theorical\01_DesignPattern\DesignPatternDotnet\StructureAdapter\obj\Debug\net6.0\StructureAdapter.csproj.AssemblyReference.cache
+C:\Users\sjak3\Documents\JakkeLab\01_DEV\02_Study\11_Theorical\01_DesignPattern\DesignPatternDotnet\StructureAdapter\obj\Debug\net6.0\StructureAdapter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sjak3\Documents\JakkeLab\01_DEV\02_Study\11_Theorical\01_DesignPattern\DesignPatternDotnet\StructureAdapter\obj\Debug\net6.0\StructureAdapter.AssemblyInfoInputs.cache
+C:\Users\sjak3\Documents\JakkeLab\01_DEV\02_Study\11_Theorical\01_DesignPattern\DesignPatternDotnet\StructureAdapter\obj\Debug\net6.0\StructureAdapter.AssemblyInfo.cs
+C:\Users\sjak3\Documents\JakkeLab\01_DEV\02_Study\11_Theorical\01_DesignPattern\DesignPatternDotnet\StructureAdapter\obj\Debug\net6.0\StructureAdapter.csproj.CoreCompileInputs.cache
+C:\Users\sjak3\Documents\JakkeLab\01_DEV\02_Study\11_Theorical\01_DesignPattern\DesignPatternDotnet\StructureAdapter\obj\Debug\net6.0\StructureAdapter.dll
+C:\Users\sjak3\Documents\JakkeLab\01_DEV\02_Study\11_Theorical\01_DesignPattern\DesignPatternDotnet\StructureAdapter\obj\Debug\net6.0\refint\StructureAdapter.dll
+C:\Users\sjak3\Documents\JakkeLab\01_DEV\02_Study\11_Theorical\01_DesignPattern\DesignPatternDotnet\StructureAdapter\obj\Debug\net6.0\StructureAdapter.pdb
+C:\Users\sjak3\Documents\JakkeLab\01_DEV\02_Study\11_Theorical\01_DesignPattern\DesignPatternDotnet\StructureAdapter\obj\Debug\net6.0\StructureAdapter.genruntimeconfig.cache
+C:\Users\sjak3\Documents\JakkeLab\01_DEV\02_Study\11_Theorical\01_DesignPattern\DesignPatternDotnet\StructureAdapter\obj\Debug\net6.0\ref\StructureAdapter.dll

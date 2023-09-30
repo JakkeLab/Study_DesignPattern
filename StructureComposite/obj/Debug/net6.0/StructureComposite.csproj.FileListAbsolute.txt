@@ -1,0 +1,15 @@
+C:\Users\sjak3\Documents\JakkeLab\01_DEV\02_Study\11_Theorical\01_DesignPattern\DesignPatternDotnet\StructureComposite\bin\Debug\net6.0\StructureComposite.exe
+C:\Users\sjak3\Documents\JakkeLab\01_DEV\02_Study\11_Theorical\01_DesignPattern\DesignPatternDotnet\StructureComposite\bin\Debug\net6.0\StructureComposite.deps.json
+C:\Users\sjak3\Documents\JakkeLab\01_DEV\02_Study\11_Theorical\01_DesignPattern\DesignPatternDotnet\StructureComposite\bin\Debug\net6.0\StructureComposite.runtimeconfig.json
+C:\Users\sjak3\Documents\JakkeLab\01_DEV\02_Study\11_Theorical\01_DesignPattern\DesignPatternDotnet\StructureComposite\bin\Debug\net6.0\StructureComposite.dll
+C:\Users\sjak3\Documents\JakkeLab\01_DEV\02_Study\11_Theorical\01_DesignPattern\DesignPatternDotnet\StructureComposite\bin\Debug\net6.0\StructureComposite.pdb
+C:\Users\sjak3\Documents\JakkeLab\01_DEV\02_Study\11_Theorical\01_DesignPattern\DesignPatternDotnet\StructureComposite\obj\Debug\net6.0\StructureComposite.csproj.AssemblyReference.cache
+C:\Users\sjak3\Documents\JakkeLab\01_DEV\02_Study\11_Theorical\01_DesignPattern\DesignPatternDotnet\StructureComposite\obj\Debug\net6.0\StructureComposite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sjak3\Documents\JakkeLab\01_DEV\02_Study\11_Theorical\01_DesignPattern\DesignPatternDotnet\StructureComposite\obj\Debug\net6.0\StructureComposite.AssemblyInfoInputs.cache
+C:\Users\sjak3\Documents\JakkeLab\01_DEV\02_Study\11_Theorical\01_DesignPattern\DesignPatternDotnet\StructureComposite\obj\Debug\net6.0\StructureComposite.AssemblyInfo.cs
+C:\Users\sjak3\Documents\JakkeLab\01_DEV\02_Study\11_Theorical\01_DesignPattern\DesignPatternDotnet\StructureComposite\obj\Debug\net6.0\StructureComposite.csproj.CoreCompileInputs.cache
+C:\Users\sjak3\Documents\JakkeLab\01_DEV\02_Study\11_Theorical\01_DesignPattern\DesignPatternDotnet\StructureComposite\obj\Debug\net6.0\StructureComposite.dll
+C:\Users\sjak3\Documents\JakkeLab\01_DEV\02_Study\11_Theorical\01_DesignPattern\DesignPatternDotnet\StructureComposite\obj\Debug\net6.0\refint\StructureComposite.dll
+C:\Users\sjak3\Documents\JakkeLab\01_DEV\02_Study\11_Theorical\01_DesignPattern\DesignPatternDotnet\StructureComposite\obj\Debug\net6.0\StructureComposite.pdb
+C:\Users\sjak3\Documents\JakkeLab\01_DEV\02_Study\11_Theorical\01_DesignPattern\DesignPatternDotnet\StructureComposite\obj\Debug\net6.0\StructureComposite.genruntimeconfig.cache
+C:\Users\sjak3\Documents\JakkeLab\01_DEV\02_Study\11_Theorical\01_DesignPattern\DesignPatternDotnet\StructureComposite\obj\Debug\net6.0\ref\StructureComposite.dll

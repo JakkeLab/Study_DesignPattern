@@ -1,0 +1,15 @@
+C:\Users\sjak3\Documents\JakkeLab\01_DEV\02_Study\11_Theorical\01_DesignPattern\DesignPatternDotnet\StructureDecorator\bin\Debug\net6.0\StructureDecorator.exe
+C:\Users\sjak3\Documents\JakkeLab\01_DEV\02_Study\11_Theorical\01_DesignPattern\DesignPatternDotnet\StructureDecorator\bin\Debug\net6.0\StructureDecorator.deps.json
+C:\Users\sjak3\Documents\JakkeLab\01_DEV\02_Study\11_Theorical\01_DesignPattern\DesignPatternDotnet\StructureDecorator\bin\Debug\net6.0\StructureDecorator.runtimeconfig.json
+C:\Users\sjak3\Documents\JakkeLab\01_DEV\02_Study\11_Theorical\01_DesignPattern\DesignPatternDotnet\StructureDecorator\bin\Debug\net6.0\StructureDecorator.dll
+C:\Users\sjak3\Documents\JakkeLab\01_DEV\02_Study\11_Theorical\01_DesignPattern\DesignPatternDotnet\StructureDecorator\bin\Debug\net6.0\StructureDecorator.pdb
+C:\Users\sjak3\Documents\JakkeLab\01_DEV\02_Study\11_Theorical\01_DesignPattern\DesignPatternDotnet\StructureDecorator\obj\Debug\net6.0\StructureDecorator.csproj.AssemblyReference.cache
+C:\Users\sjak3\Documents\JakkeLab\01_DEV\02_Study\11_Theorical\01_DesignPattern\DesignPatternDotnet\StructureDecorator\obj\Debug\net6.0\StructureDecorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sjak3\Documents\JakkeLab\01_DEV\02_Study\11_Theorical\01_DesignPattern\DesignPatternDotnet\StructureDecorator\obj\Debug\net6.0\StructureDecorator.AssemblyInfoInputs.cache
+C:\Users\sjak3\Documents\JakkeLab\01_DEV\02_Study\11_Theorical\01_DesignPattern\DesignPatternDotnet\StructureDecorator\obj\Debug\net6.0\StructureDecorator.AssemblyInfo.cs
+C:\Users\sjak3\Documents\JakkeLab\01_DEV\02_Study\11_Theorical\01_DesignPattern\DesignPatternDotnet\StructureDecorator\obj\Debug\net6.0\StructureDecorator.csproj.CoreCompileInputs.cache
+C:\Users\sjak3\Documents\JakkeLab\01_DEV\02_Study\11_Theorical\01_DesignPattern\DesignPatternDotnet\StructureDecorator\obj\Debug\net6.0\StructureDecorator.dll
+C:\Users\sjak3\Documents\JakkeLab\01_DEV\02_Study\11_Theorical\01_DesignPattern\DesignPatternDotnet\StructureDecorator\obj\Debug\net6.0\refint\StructureDecorator.dll
+C:\Users\sjak3\Documents\JakkeLab\01_DEV\02_Study\11_Theorical\01_DesignPattern\DesignPatternDotnet\StructureDecorator\obj\Debug\net6.0\StructureDecorator.pdb
+C:\Users\sjak3\Documents\JakkeLab\01_DEV\02_Study\11_Theorical\01_DesignPattern\DesignPatternDotnet\StructureDecorator\obj\Debug\net6.0\StructureDecorator.genruntimeconfig.cache
+C:\Users\sjak3\Documents\JakkeLab\01_DEV\02_Study\11_Theorical\01_DesignPattern\DesignPatternDotnet\StructureDecorator\obj\Debug\net6.0\ref\StructureDecorator.dll

@@ -1,0 +1,15 @@
+C:\Users\sjak3\Documents\JakkeLab\01_DEV\02_Study\11_Theorical\01_DesignPattern\DesignPatternDotnet\StuctureBridge\bin\Debug\net6.0\StuctureBridge.exe
+C:\Users\sjak3\Documents\JakkeLab\01_DEV\02_Study\11_Theorical\01_DesignPattern\DesignPatternDotnet\StuctureBridge\bin\Debug\net6.0\StuctureBridge.deps.json
+C:\Users\sjak3\Documents\JakkeLab\01_DEV\02_Study\11_Theorical\01_DesignPattern\DesignPatternDotnet\StuctureBridge\bin\Debug\net6.0\StuctureBridge.runtimeconfig.json
+C:\Users\sjak3\Documents\JakkeLab\01_DEV\02_Study\11_Theorical\01_DesignPattern\DesignPatternDotnet\StuctureBridge\bin\Debug\net6.0\StuctureBridge.dll
+C:\Users\sjak3\Documents\JakkeLab\01_DEV\02_Study\11_Theorical\01_DesignPattern\DesignPatternDotnet\StuctureBridge\bin\Debug\net6.0\StuctureBridge.pdb
+C:\Users\sjak3\Documents\JakkeLab\01_DEV\02_Study\11_Theorical\01_DesignPattern\DesignPatternDotnet\StuctureBridge\obj\Debug\net6.0\StuctureBridge.csproj.AssemblyReference.cache
+C:\Users\sjak3\Documents\JakkeLab\01_DEV\02_Study\11_Theorical\01_DesignPattern\DesignPatternDotnet\StuctureBridge\obj\Debug\net6.0\StuctureBridge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sjak3\Documents\JakkeLab\01_DEV\02_Study\11_Theorical\01_DesignPattern\DesignPatternDotnet\StuctureBridge\obj\Debug\net6.0\StuctureBridge.AssemblyInfoInputs.cache
+C:\Users\sjak3\Documents\JakkeLab\01_DEV\02_Study\11_Theorical\01_DesignPattern\DesignPatternDotnet\StuctureBridge\obj\Debug\net6.0\StuctureBridge.AssemblyInfo.cs
+C:\Users\sjak3\Documents\JakkeLab\01_DEV\02_Study\11_Theorical\01_DesignPattern\DesignPatternDotnet\StuctureBridge\obj\Debug\net6.0\StuctureBridge.csproj.CoreCompileInputs.cache
+C:\Users\sjak3\Documents\JakkeLab\01_DEV\02_Study\11_Theorical\01_DesignPattern\DesignPatternDotnet\StuctureBridge\obj\Debug\net6.0\StuctureBridge.dll
+C:\Users\sjak3\Documents\JakkeLab\01_DEV\02_Study\11_Theorical\01_DesignPattern\DesignPatternDotnet\StuctureBridge\obj\Debug\net6.0\refint\StuctureBridge.dll
+C:\Users\sjak3\Documents\JakkeLab\01_DEV\02_Study\11_Theorical\01_DesignPattern\DesignPatternDotnet\StuctureBridge\obj\Debug\net6.0\StuctureBridge.pdb
+C:\Users\sjak3\Documents\JakkeLab\01_DEV\02_Study\11_Theorical\01_DesignPattern\DesignPatternDotnet\StuctureBridge\obj\Debug\net6.0\StuctureBridge.genruntimeconfig.cache
+C:\Users\sjak3\Documents\JakkeLab\01_DEV\02_Study\11_Theorical\01_DesignPattern\DesignPatternDotnet\StuctureBridge\obj\Debug\net6.0\ref\StuctureBridge.dll
